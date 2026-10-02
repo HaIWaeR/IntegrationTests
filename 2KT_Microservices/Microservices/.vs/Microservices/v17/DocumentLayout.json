@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D5759-CA0C-4127-AFD2-C530C20BFB5A}|OrdersService\\OrdersService.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\integrationtests\\2kt_microservices\\microservices\\ordersservice\\data\\ordersstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D5759-CA0C-4127-AFD2-C530C20BFB5A}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\data\\ordersstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D5759-CA0C-4127-AFD2-C530C20BFB5A}|OrdersService\\OrdersService.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\integrationtests\\2kt_microservices\\microservices\\ordersservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D5759-CA0C-4127-AFD2-C530C20BFB5A}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D5759-CA0C-4127-AFD2-C530C20BFB5A}|OrdersService\\OrdersService.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\integrationtests\\2kt_microservices\\microservices\\ordersservice\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8D5759-CA0C-4127-AFD2-C530C20BFB5A}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D5759-CA0C-4127-AFD2-C530C20BFB5A}|OrdersService\\OrdersService.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\integrationtests\\2kt_microservices\\microservices\\ordersservice\\ordersservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA8D5759-CA0C-4127-AFD2-C530C20BFB5A}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\ordersservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3F3F7-B35C-4204-90EB-BC9BEE6D5E43}|UsersService\\UsersService.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\integrationtests\\2kt_microservices\\microservices\\usersservice\\models\\usersstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3F3F7-B35C-4204-90EB-BC9BEE6D5E43}|UsersService\\UsersService.csproj|solutionrelative:usersservice\\models\\usersstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3F3F7-B35C-4204-90EB-BC9BEE6D5E43}|UsersService\\UsersService.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\integrationtests\\2kt_microservices\\microservices\\usersservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3F3F7-B35C-4204-90EB-BC9BEE6D5E43}|UsersService\\UsersService.csproj|solutionrelative:usersservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3F3F7-B35C-4204-90EB-BC9BEE6D5E43}|UsersService\\UsersService.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\integrationtests\\2kt_microservices\\microservices\\usersservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3F3F7-B35C-4204-90EB-BC9BEE6D5E43}|UsersService\\UsersService.csproj|solutionrelative:usersservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8D5759-CA0C-4127-AFD2-C530C20BFB5A}|OrdersService\\OrdersService.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\integrationtests\\2kt_microservices\\microservices\\ordersservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA8D5759-CA0C-4127-AFD2-C530C20BFB5A}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3F3F7-B35C-4204-90EB-BC9BEE6D5E43}|UsersService\\UsersService.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\integrationtests\\2kt_microservices\\microservices\\usersservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FE3F3F7-B35C-4204-90EB-BC9BEE6D5E43}|UsersService\\UsersService.csproj|solutionrelative:usersservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3F3F7-B35C-4204-90EB-BC9BEE6D5E43}|UsersService\\UsersService.csproj|c:\\users\\xiaomi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\integrationtests\\2kt_microservices\\microservices\\usersservice\\usersservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6FE3F3F7-B35C-4204-90EB-BC9BEE6D5E43}|UsersService\\UsersService.csproj|solutionrelative:usersservice\\usersservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersStore.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\OrdersService\\Data\\OrdersStore.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Data\\OrdersStore.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\OrdersService\\Data\\OrdersStore.cs",
+              "RelativeToolTip": "OrdersService\\Data\\OrdersStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:38:08.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersService",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\OrdersService\\OrdersService.csproj",
+              "RelativeDocumentMoniker": "OrdersService\\OrdersService.csproj",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\OrdersService\\OrdersService.csproj",
+              "RelativeToolTip": "OrdersService\\OrdersService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T22:37:50.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\OrdersService\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\OrdersService\\Models\\UserDto.cs",
+              "RelativeToolTip": "OrdersService\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:37:17.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\OrdersService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\OrdersService\\Models\\Order.cs",
+              "RelativeToolTip": "OrdersService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:36:28.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersStore.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\UsersService\\Models\\UsersStore.cs",
+              "RelativeDocumentMoniker": "UsersService\\Models\\UsersStore.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\UsersService\\Models\\UsersStore.cs",
+              "RelativeToolTip": "UsersService\\Models\\UsersStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:33:54.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\UsersService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UsersService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\UsersService\\Models\\User.cs",
+              "RelativeToolTip": "UsersService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:23:39.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\UsersService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UsersService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\UsersService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UsersService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T22:21:06.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersService",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\UsersService\\UsersService.csproj",
+              "RelativeDocumentMoniker": "UsersService\\UsersService.csproj",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\UsersService\\UsersService.csproj",
+              "RelativeToolTip": "UsersService\\UsersService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T22:21:04.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\OrdersService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrdersService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\OrdersService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrdersService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T22:20:33.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\UsersService\\Program.cs",
+              "RelativeDocumentMoniker": "UsersService\\Program.cs",
+              "ToolTip": "C:\\Users\\Xiaomi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IntegrationTests\\2KT_Microservices\\Microservices\\UsersService\\Program.cs",
+              "RelativeToolTip": "UsersService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:17:09.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
