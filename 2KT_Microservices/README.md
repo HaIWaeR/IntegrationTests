@@ -37,6 +37,7 @@ pm.test("Request from OrdersService to UsersService: less than 500 ms", function
     pm.expect(time).to.be.below(500);
 });
 ```
+![GetOrdersAndClients](../Sourse/2KT/GetTimeRespons.png)
 
 # UsersService выключен
 
@@ -50,3 +51,4 @@ pm.test("Statis code is 200", function () {
 //     pm.expect(pm.response.text()).to.include("недоступен");
 // });
 ```
+![GetOrdersAndClients](../Sourse/2KT/UserServicesDrop.png)
