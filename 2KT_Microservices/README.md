@@ -19,7 +19,7 @@ pm.test("User matches the order", function () {
     pm.expect(body.user.id).to.eql(body.order.userId);
 });
 ```
-![GetOrdersAndClients](../Sourse/2KT/Sourse/GetOrdersAndClients.png)
+![GetOrdersAndClients](../Sourse/2KT/GetOrdersAndClients.png)
 
 ### Get Время отклика 
 ```c#
