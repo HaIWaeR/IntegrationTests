@@ -146,6 +146,7 @@ pm.test("Book data is correct", function () {
 });
 ```
 ![GetById](../Sourse/1KT/GetById.png)
+
 # GET by {Id} Нигативные тесты по id
 ### Script
 ```js
@@ -158,6 +159,7 @@ pm.test("Error message is present", function () {
     pm.expect(jsonData).property("message");
 });
 ```
+![Patch](../Sourse/1KT/GetByIdNegativ.png)
 # PATCH Изменения книги
 ### Body
 ```js
