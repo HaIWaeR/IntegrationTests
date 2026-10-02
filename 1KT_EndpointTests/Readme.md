@@ -65,8 +65,7 @@
         pm.expect(pm.response.responseTime).to.be.below(100);
     });
 ```
-
-Фото[]
+![Get](../Sourse/1KT/Get.png)
 
 # POST Создание книг
 ### Body
@@ -115,6 +114,7 @@ pm.collectionVariables.set("bookId", created.id);
 pm.collectionVariables.set("bookTitle", created.title);
 pm.collectionVariables.set("bookAuthor", created.author);
 ```
+![Post](../Sourse/1KT/Post.png)
 
 # GET by {Id} Получение по Id 
 ### Script
@@ -145,6 +145,7 @@ pm.test("Book data is correct", function () {
     pm.expect(jsonData.author).to.eql(pm.collectionVariables.get("bookAuthor"));
 });
 ```
+![GetById](../Sourse/1KT/GetById.png)
 # GET by {Id} Нигативные тесты по id
 ### Script
 ```js
@@ -186,6 +187,7 @@ pm.test("Other fields stayed untouched", function () {
     pm.expect(jsonData.author).to.eql(pm.collectionVariables.get("bookAuthor"));
 });
 ```
+![Patch](../Sourse/1KT/Patch.png)
 # PUT Обновление книги
 ### Body 
 ```js
@@ -219,6 +221,7 @@ pm.test("Id did not change", function () {
     pm.expect(pm.response.json().id).to.eql(Number(pm.collectionVariables.get("bookId")));
 }); 
 ```
+![Put](../Sourse/1KT/Put.png)
 # DELETE Удаление книги
 ### Script
 ```js
@@ -243,3 +246,7 @@ pm.test("Deleted book is not found anymore", function (done) {
     });
 });
 ```
+![Delete](../Sourse/1KT/Delete.png)
+
+# Run
+![Run](../Sourse/1KT/Run.png)
